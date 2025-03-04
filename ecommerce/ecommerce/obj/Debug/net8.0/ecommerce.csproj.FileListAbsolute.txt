@@ -1,0 +1,14 @@
+C:\DOT NET\ecommerce\ecommerce\obj\Debug\net8.0\ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOT NET\ecommerce\ecommerce\obj\Debug\net8.0\ecommerce.AssemblyInfoInputs.cache
+C:\DOT NET\ecommerce\ecommerce\obj\Debug\net8.0\ecommerce.AssemblyInfo.cs
+C:\DOT NET\ecommerce\ecommerce\obj\Debug\net8.0\ecommerce.csproj.CoreCompileInputs.cache
+C:\DOT NET\ecommerce\ecommerce\bin\Debug\net8.0\ecommerce.exe
+C:\DOT NET\ecommerce\ecommerce\bin\Debug\net8.0\ecommerce.deps.json
+C:\DOT NET\ecommerce\ecommerce\bin\Debug\net8.0\ecommerce.runtimeconfig.json
+C:\DOT NET\ecommerce\ecommerce\bin\Debug\net8.0\ecommerce.dll
+C:\DOT NET\ecommerce\ecommerce\bin\Debug\net8.0\ecommerce.pdb
+C:\DOT NET\ecommerce\ecommerce\obj\Debug\net8.0\ecommerce.dll
+C:\DOT NET\ecommerce\ecommerce\obj\Debug\net8.0\refint\ecommerce.dll
+C:\DOT NET\ecommerce\ecommerce\obj\Debug\net8.0\ecommerce.pdb
+C:\DOT NET\ecommerce\ecommerce\obj\Debug\net8.0\ecommerce.genruntimeconfig.cache
+C:\DOT NET\ecommerce\ecommerce\obj\Debug\net8.0\ref\ecommerce.dll
